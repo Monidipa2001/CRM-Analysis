@@ -1,8 +1,8 @@
-#CRM Analysis Repository
+**CRM Analysis Repository**
 
 This repository contains scripts and notebooks for analyzing Customer Relationship Management (CRM) data. The data used in this analysis includes fields such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
-#Data Description
+**Data Description**
 
 InvoiceNo: The unique identifier for each transaction.
 StockCode: A code representing the item purchased.
