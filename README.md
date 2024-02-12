@@ -1,5 +1,18 @@
-# CRM-Analysis
- A comprehensive CRM system for managing customer interactions, sales processes, and analytics. Empowering businesses with scalable solutions for efficient customer relationship management and growth.
+#CRM Analysis Repository
+
+This repository contains scripts and notebooks for analyzing Customer Relationship Management (CRM) data. The data used in this analysis includes fields such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
+
+#Data Description
+
+InvoiceNo: The unique identifier for each transaction.
+StockCode: A code representing the item purchased.
+Description: A brief description of the item.
+Quantity: The quantity of the item purchased in each transaction.
+InvoiceDate: The date and time of the transaction.
+UnitPrice: The price per unit of the item.
+CustomerID: The unique identifier for each customer.
+Country: The country where the transaction took place.
+
 
 # Step 1: Import Libraries
 
