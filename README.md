@@ -14,9 +14,6 @@ import matplotlib.pyplot as plt
 #saving file path:
 file_path = "/Users/dhineshkumar/Downloads/data.csv"
 
-#since we cant encode the data using utf-8 it shows UnicodeDecodeError using 'ISO-8859-1':
-data = pd.read_csv(file_path, encoding='ISO-8859-1')
-
 # Step 3: Explore the Data
 
 # Displaying first 3 rows:
